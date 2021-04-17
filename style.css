@@ -1,0 +1,25 @@
+html,body{
+    height:100%;
+    margin:0;
+   }
+   body{
+       background:linear-gradient(to right top, #009900,#00cc00,#00ff00, #33ff33,#66ff66);
+   }
+   #msg{
+    width:750px;
+   }
+   h2{
+       color:cyan;
+       font-family:Verdana, Geneva, Tahoma, sans-serif;
+       font-weight: 600;
+   }
+   label{
+       color:red;
+       font-size:30px;
+       font-family: cursive;
+   }
+   .input_div_message_page{
+   position: fixed;bottom: 0px;
+   width: 100%;
+   background: rgba(255,255,255,0.8);
+   }
